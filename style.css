@@ -1,0 +1,56 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Element Style */
+h1, h2 {
+  text-align: center;
+  }
+
+/* Class style. */
+.primary-image {
+  width: 100%;
+  max-width: 400px;
+}
+
+h3 {
+  padding: 10px;
+}
+
+img {
+  width: 50%; 
+  max-width: 400px;
+}
+
+header {
+  margin: 10pz;
+  padding: 10px;
+  background-color: skyblue;
+}
+
+article {
+  padding: 2px;
+  float: left;
+  height: 300px;
+  width: 50%;
+  background-color: lightblue;
+}
+p {
+  background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
